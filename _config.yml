@@ -16,9 +16,10 @@
 title: Minsol Blog
 name: minsol
 email:
-description: "FastAPI, LLM, MSA, ESG, AI 시스템을 설계하고 구현하는 개발 기록"
+description: >- # this means to ignore newlines until "baseurl:"
+  FastAPI, LLM, MSA, ESG, AI 시스템을 설계하고 구현하는 개발 기록
 
-url: minsol0302.github.io
+url: https://minsol0302.github.io
 baseurl: "" # 반드시 비워두기
 
 timezone: Asia/Seoul
